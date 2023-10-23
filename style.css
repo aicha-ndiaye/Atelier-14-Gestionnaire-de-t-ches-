@@ -1,0 +1,64 @@
+body{
+    background-color:hsla(0, 0%, 99%, 0.887);
+}
+.inscription{
+
+    border: 2px;
+    background-color:white;
+    text-align: center;
+    width: 30%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    flex-direction: column;
+    margin-left: 20%;
+}
+.connexion{
+    border: 2px;
+    background-color: white;
+    text-align: center;
+    width: 30%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    flex-direction: column;
+    margin-left: 10%;
+}
+.contenir{
+    display:flex;
+    justify-content: space-around;
+    margin: 100px;
+
+}
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 15px;
+    border: 1px solid hsl(330, 80%, 2%);
+    border-radius: 4px;
+
+}
+input[type="submit"] {
+    background-color: rgb(27, 217, 13);
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+label{
+    display:flex;
+    align-items: start;
+}
+h1{
+    color: white;
+    background-color: #09dd09;ss
+    height: 60px;
+    text-align: center;
+
+}
+hr{
+background-color: rgb(27, 217, 13);
+}

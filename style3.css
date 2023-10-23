@@ -1,0 +1,30 @@
+header{
+    color: white;
+    background-color: #09dd09;
+    height: 10%;
+    text-align: center;
+    
+}
+.h{
+    display: inline-flex;
+    }
+.hred{
+    color: red;
+}
+.hgreen{
+    color: #09dd09;
+}
+.terminer{
+    color: white;
+    background-color: #09dd09;
+}
+.supprimer{
+    color: white;
+    background-color: red;
+}
+.div{
+        background-color:white;
+}
+body{
+    background-color: #fbeeeeda;
+}
